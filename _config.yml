@@ -1,6 +1,8 @@
 # https://github.com/jeffreytse/jekyll-theme-yat/?tab=readme-ov-file#remote-theme-method-with-jekyll-remote-theme-plugin
 
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 title: Title
 email: ohno.github@gmail.com
@@ -14,6 +16,3 @@ defaults:
   home:
     heading: "HEADING HEADING HEADING"
     subheading: "subheading subheading subheading"
-
-plugins:
-  - jekyll-remote-theme
