@@ -1,0 +1,12 @@
+# https://github.com/jeffreytse/jekyll-theme-yat/?tab=readme-ov-file#remote-theme-method-with-jekyll-remote-theme-plugin
+
+remote_theme: "jeffreytse/jekyll-theme-yat"
+
+title: Title
+email: ohno.github@gmail.com
+author: Shuhei Ohno
+copyright: "© 2025-{currentYear} {author}"
+description: "description description description description description description description description description description"
+
+plugins:
+  - jekyll-remote-theme
